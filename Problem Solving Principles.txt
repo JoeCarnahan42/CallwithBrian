@@ -1,0 +1,5 @@
+1. Solve the problem first, then write the code
+
+2. Break your problem down in to small, bite sized, chuncks.
+
+3. Test every assumption as you code, with the debugger.
